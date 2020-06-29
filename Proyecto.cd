@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="InventarioMetalForms.Escuadra">
+    <Position X="0.5" Y="3.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AQAgAAEAAAABAAEEIQABACAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Escuadra.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InventarioMetalForms.Form1">
+    <Position X="10" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>xC3OhUFCICACQJwaEkKQRENSAAGBUgIDUDSYIAABBQg=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InventarioMetalForms.ListaInventario">
+    <Position X="8" Y="2.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAIAAAAAAQAAAAAAAAAACAAAEAAAABAAAAAA=</HashCode>
+      <FileName>ListaInventario.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InventarioMetalForms.Pieza">
+    <Position X="2.75" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAiAAAAAQAAAAUAAAAAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Pieza.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="InventarioMetalForms.PiezaRedo">
+    <Position X="5.25" Y="3.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAgQAEAIEAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PiezaRedo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InventarioMetalForms.Program">
+    <Position X="12.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InventarioMetalForms.Tornillo">
+    <Position X="3" Y="3.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAgQAAAAEAAQAAEAEAAAAAAAAAACAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Tornillo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InventarioMetalForms.Properties.Resources">
+    <Position X="12.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InventarioMetalForms.Properties.Settings">
+    <Position X="12.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="InventarioMetalForms.fechaArchErr">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACBAAAAACAAAAQAAAAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>ListaInventario.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Enum Name="InventarioMetalForms.elem">
+    <Position X="5.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAIAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>PiezaRedo.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
